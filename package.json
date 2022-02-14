@@ -1,0 +1,26 @@
+{
+  "name": "material-declase2-apis",
+  "version": "1.0.0",
+  "description": "Practica de clase en vivo antes de que se vaya Jona.",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvanaZ/Material-declase2-apis.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Sil Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilvanaZ/Material-declase2-apis/issues"
+  },
+  "homepage": "https://github.com/SilvanaZ/Material-declase2-apis#readme"
+}
